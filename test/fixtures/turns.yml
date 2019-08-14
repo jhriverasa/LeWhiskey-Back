@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  arrivaltime: 2019-08-14 03:46:26
+  departuretime: 2019-08-14 03:46:26
+  isturncompleted: MyString
+  ispaid: MyString
+  amountpaid: 1
+
+two:
+  arrivaltime: 2019-08-14 03:46:26
+  departuretime: 2019-08-14 03:46:26
+  isturncompleted: MyString
+  ispaid: MyString
+  amountpaid: 1

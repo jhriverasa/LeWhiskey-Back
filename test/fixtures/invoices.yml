@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  clientname: MyString
+  waitername: MyString
+  middlemanname: MyString
+  iva: 1
+  service: 1
+  subtotal: 1
+  total: 1
+  date: 2019-08-14
+  time: 2019-08-14 03:40:52
+  waytopay: MyString
+  description: MyString
+
+two:
+  clientname: MyString
+  waitername: MyString
+  middlemanname: MyString
+  iva: 1
+  service: 1
+  subtotal: 1
+  total: 1
+  date: 2019-08-14
+  time: 2019-08-14 03:40:52
+  waytopay: MyString
+  description: MyString

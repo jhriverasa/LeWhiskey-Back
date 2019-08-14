@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 1
+  discount: 1
+  buyprice: 1
+  sellprice: 1
+  soldprice: 1
+  issold: MyString
+
+two:
+  name: MyString
+  type: 1
+  discount: 1
+  buyprice: 1
+  sellprice: 1
+  soldprice: 1
+  issold: MyString
