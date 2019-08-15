@@ -17,6 +17,9 @@ gem 'puma', '~> 3.11'
 #Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 
+#Use Knock to use token auth
+#gem 'knock', '~> 2.1', '>= 2.1.1'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
